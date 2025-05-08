@@ -43,14 +43,21 @@ By saving time and reducing technical hassle, MetaMine improves collaboration, r
 
 
 🛠️ Technologies Used
+
 Python 3.10+
+
 Streamlit
+
 HTML/CSS
+
 REST API integrations
 
 📈 Future Roadmap
+
 Add machine learning modules
+
 Expand database coverage
+
 Mobile optimization
 
 👥 Acknowledgments:
