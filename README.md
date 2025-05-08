@@ -33,12 +33,19 @@ By saving time and reducing technical hassle, MetaMine improves collaboration, r
 
 ## 📸 App Interface Preview
 
+
 ### Home Page Overview 
 ![image](https://github.com/user-attachments/assets/df7fc69b-f934-47e8-8085-85f77f6cb2c3)
+
+
 ##### Database Exploration 
 ![image](https://github.com/user-attachments/assets/4e40a770-0c87-422d-8aa1-8b0de460f44b)
+
+
+
 ### Tool Integration 
-![image](https://github.com/user-attachments/assets/974def82-0467-48b4-9b8d-e4b2bd3bd321)
+![image](https://github.com/user-attachments/assets/9e32e9be-92c3-4ed7-be64-eb4ffc289c0e)
+
 
 
 
