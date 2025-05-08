@@ -1,1 +1,1 @@
-# MetaGalaxy
+# MetaMine
