@@ -82,11 +82,7 @@ resources = {
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiAwTbi4P77BbGzroY3FEIgRS8fx8efsa40g&s",
             "description": "Database of metagenome- and metatranscriptome-derived protein families with no reference hits."
         },
-        "Human Gut Microbiome Atlas": {
-            "url": "https://www.microbiomeatlas.org/",
-            "image": "https://www.microbiomeatlas.org/images_static/microbiome.atlas.logo.svg",
-            "description": "Atlas of human oral and gut microbiome data from disease and healthy cohorts."
-        }
+    
     },
     "tools": {
         "MetaGeneMark": {
