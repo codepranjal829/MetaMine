@@ -267,8 +267,8 @@ Reduces the need to switch between platforms, speeding up research and analysis.
 Ensures consistent analysis pipelines for reliable and repeatable results.
 """)
 
-    st.header("""
-    "🔮 Future Enhancements"
+st.header("""
+ "🔮 Future Enhancements"
     ✅ Add more databases
     ✅ Add machine learning modules for predictive microbiome modeling.
     ✅ Mobile-Friendly Interface
