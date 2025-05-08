@@ -254,11 +254,35 @@ with tab4:
     - HTML/CSS
     """)
     
+st.header("🌟 Benefits of MetaMine")
+
+benefits = """
+✅ **All-in-One Platform**  
+Combines multiple databases and analysis tools into one easy-to-use web app.
+
+✅ **Time-Saving Workflow**  
+Reduces the need to switch between platforms, speeding up research and analysis.
+
+✅ **Improved Reproducibility**  
+Ensures consistent analysis pipelines for reliable and repeatable results.
+
+    st.header("🔮 Future Enhancements")
+    future_enhancements = """
+    ✅ Add more databases
+    ✅ Add machine learning modules for predictive microbiome modeling.
+    ✅ Mobile-Friendly Interface
+    ✅ Multi-omics support
+    
+ 
+   # Display additional tip for users
+     st.info("💡 **Tip:** For the best experience, please ensure you have a stable internet connection.")
+
     st.markdown("""
     ### 👨‍🏫 Acknowledgments
     I would like to express my heartfelt gratitude to Dr. Kushagra Kashyap, Assistant Professor (Bioinformatics), 
     Department of Life Sciences, School of Science and Mathematics, DES Pune University, for his exceptional 
     guidance and unwavering academic support throughout the development of this project.
+    linkedin:https://www.linkedin.com/in/dr-kushagra-kashyap-b230a3bb?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
     """)
     
     st.markdown("""
