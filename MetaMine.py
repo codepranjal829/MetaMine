@@ -96,7 +96,7 @@ resources = {
         },
         "MetaPhlAn": {
             "url": "http://segatalab.cibio.unitn.it/tools/metaphlan3/",
-            "image": "https://sdmntprwestcentralus.oaiusercontent.com/files/00000000-d5b0-61fb-915e-ceb8fa213e4b/raw?se=2025-05-08T12%3A23%3A34Z&sp=r&sv=2024-08-04&sr=b&scid=00000000-0000-0000-0000-000000000000&skoid=71e8fa5c-90a9-4c17-827b-14c3005164d6&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-05-07T13%3A49%3A27Z&ske=2025-05-08T13%3A49%3A27Z&sks=b&skv=2024-08-04&sig=WggJq1apqak6pffZMepEy2/Z1t6A0bYXLDIlEV6Okt4%3D",
+            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROqk97F5nNAFROu0EWImSG_BiGY3YjxibTAQ&s",
             "description": "Computational tool for profiling microbial communities from metagenomic shotgun sequencing data at species-level."
         },
         "MG-RAST": {
