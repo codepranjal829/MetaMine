@@ -53,11 +53,13 @@ Add machine learning modules
 Expand database coverage
 Mobile optimization
 
-👥 Acknowledgments
+👥 Acknowledgments:
+
 Special thanks to Dr. Kushagra Kashyap  Associate Professor at DES PUNE university for academic guidance and support.
 
 ##Contact details
-email:dpranjal889@gmail.com
+
+Email:dpranjal889@gmail.com
 Linkedin : https://www.linkedin.com/in/pranjal-dalvi-2b6538316?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 
