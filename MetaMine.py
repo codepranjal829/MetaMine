@@ -269,12 +269,12 @@ Ensures consistent analysis pipelines for reliable and repeatable results.
 
   st.header("""
     "🔮 Future Enhancements"
-
     ✅ Add more databases
     ✅ Add machine learning modules for predictive microbiome modeling.
     ✅ Mobile-Friendly Interface
     ✅ Multi-omics support
-   """ )
+ """   )
+
  
    # Display additional tip for users
      st.info("💡 **Tip:** For the best experience, please ensure you have a stable internet connection.")
